@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "What do you want to be displayed first? Type 1 or 2"
-echo "======================================="
+echo "==================================================="
 read res1
 echo $res1
 
