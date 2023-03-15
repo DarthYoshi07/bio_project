@@ -1,3 +1,3 @@
 * BIOLOGY PROJECT
-- Biology Shell Script
-This shell script will explain photosynthesis & cellular respiration
+- Biology Python Script
+This python script will explain photosynthesis & cellular respiration
