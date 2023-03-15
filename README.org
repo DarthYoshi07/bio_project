@@ -1,3 +1,23 @@
 * BIOLOGY PROJECT
 - Biology Python Script
 This python script will explain photosynthesis & cellular respiration
+
+* The setup
+You will need some things before you can run the program:
+- Python3
+- Git
+and that's it!
+
+** Running the program
+First you'll want to clone this repo on your machine, here will be the guide for Windows:
+*The Checklist:*
+- [] First Install Git (https://git-scm.com/download/win)
+- [] Make sure Python is installed on your system
+
+*Getting the files*
+Now either clone this repository via a Terminal on install the zipped file from clicking the green Code dropdown button.
+
+*Cloning the repo (No zipped file)*
+#+begin_src sh
+git clone https://github.com/DarthYoshi07/bio_project
+#+end_src
