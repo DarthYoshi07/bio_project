@@ -10,8 +10,8 @@ and that's it!
 ** Running the program
 First you'll want to clone this repo on your machine, here will be the guide for Windows:
 *The Checklist:*
-- First Install Git (https://git-scm.com/download/win)
-- Install Rust (not required)
+- First install Git (https://git-scm.com/download/win, if you are going to download the zipped file this isn't required)
+- Then install Rust (not required)
 
 *Getting the files*
 
