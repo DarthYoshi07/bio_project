@@ -1,6 +1,6 @@
 * BIOLOGY PROJECT
-- Biology Python Script
-This python script will explain photosynthesis & cellular respiration
+- Biology Rust Program
+This crate will explain photosynthesis & cellular respiration
 
 * The setup
 You may need some things before you can run the program:
