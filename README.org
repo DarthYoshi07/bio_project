@@ -15,7 +15,7 @@ First you'll want to clone this repo on your machine, here will be the guide for
 
 *Getting the files*
 
-Now either clone this repository via a Terminal on install the zipped file from clicking the green Code dropdown button.
+Now either clone this repository via a Terminal on install the zipped file from clicking the Green Code dropdown button.
 
 *Cloning the repo (No zipped file)*
 #+begin_src sh
