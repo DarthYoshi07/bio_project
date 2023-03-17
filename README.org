@@ -26,3 +26,13 @@ git clone https://github.com/DarthYoshi07/bio_project
 *Rust*
 If you don't have Rust installed, just know that it is not required in order to launch the application, but if you do want to install it go here:
 https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe
+
+*** Launch The Program
+The program path is located at 
+#+begin_src
+target/release/bio_project
+#+end_src
+Either double click this file or launch it via a terminal:
+#+begin_src
+./target/release/bio_project
+#+end_src
