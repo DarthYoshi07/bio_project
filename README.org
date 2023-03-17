@@ -1,6 +1,7 @@
 * BIOLOGY PROJECT
 - Biology Rust Program
-This crate will explain photosynthesis & cellular respiration
+This crate will explain photosynthesis & cellular respiration.
+(The project is supposed the act like someone's digital notebook which displays notes about Photosynthesis & C.R)
 
 * The setup
 You may need some things before you can run the program:
