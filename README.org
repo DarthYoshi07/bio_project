@@ -20,7 +20,7 @@ Now either clone this repository via a Terminal on install the zipped file from 
 
 *Cloning the repo (No zipped file)*
 #+begin_src sh
-git clone https://github.com/DarthYoshi07/bio_project
+git clone https://github.com/thelinuxpirate/bio_project
 #+end_src
 
 *Rust*
